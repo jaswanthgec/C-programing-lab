@@ -51,9 +51,6 @@
 - 10b. Subraction of two complex numbers using structure
 
 - 10c. Multiplication of two complex numbers using structure
-
 - 10d. Division of two complex numbers using structure
-
 - 11a. Copy contents of one file to another file
-
 - 11b. Count the no.of characters, words and lines in a given txt file.
