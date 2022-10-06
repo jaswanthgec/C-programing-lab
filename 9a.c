@@ -12,32 +12,26 @@ struct emp
 }emp;
 void main()
 {
-    printf("Enter Name: \n");
+    printf("Enter Name: ");
     scanf("%s", emp.name);
-    printf("Enter Salary: \n");
+    printf("Enter Salary: ");
     scanf("%f", &emp.salary);
-    printf("Enter dno: \n");
+    printf("Enter dno: ");
     scanf("%d", &emp.add.dno);
-    printf("Enter City: \n");
+    printf("Enter City: ");
     scanf("%s", emp.add.city);
-    printf("\n");
     printf("Employee Details:\n");
     printf("Name: %s\nSalary: %.2f\nDoor.no: %d\nCity: %s\n",emp.name,emp.salary,emp.add.dno,emp.add.city);
 }
 /*
 Output:-
-Enter Name: 
-jaswanth
-Enter Salary: 
-500000
-Enter dno: 
-57
-Enter City: 
-Germany
-
+Enter Name: jaswanth
+Enter Salary: 500000
+Enter dno: 57
+Enter City: Usa
 Employee Details:
-Name: Rohit
-Salary: 500000.00
-Door.no: 51
-City: Germany
+Name: jaswanth
+Salary: 500000
+Door.no: 57
+City: Usa
 */
