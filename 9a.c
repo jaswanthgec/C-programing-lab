@@ -26,7 +26,7 @@ void main()
 /*
 Output:-
 Enter Name: jaswanth
-Enter Salary: 500000
+Enter Salary: 500000.0
 Enter dno: 57
 Enter City: Usa
 Employee Details:
