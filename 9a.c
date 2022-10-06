@@ -31,7 +31,7 @@ Enter dno: 57
 Enter City: Usa
 Employee Details:
 Name: jaswanth
-Salary: 500000
+Salary: 500000.00
 Door.no: 57
 City: Usa
 */
